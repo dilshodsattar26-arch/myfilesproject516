@@ -1,0 +1,8 @@
+{
+    "name": "appmanager-service",
+    "version": "1.0.516",
+    "private": false,
+    "environment": "production",
+    "build_id": 587,
+    "allow_public_access": true
+}
